@@ -14,7 +14,7 @@
     "Microsoft.CSharp": "4.0.0-beta-23109",
 
     "xunit": "2.1.0-beta4-build3109",
-    "xunit.runner.dnx": "2.1.0-beta4-build1109"
+    "xunit.runner.dnx": "2.1.0-beta4-build134"
   },
 
   "commands": {
